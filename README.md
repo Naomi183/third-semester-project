@@ -1,1 +1,3 @@
-# [Third Semester Exam Project](https://third-semester-exam.vercel.app/)
+# This app was deployed using vercel
+Click the link to view the demo
+https://third-semester-project-1oyf.vercel.app/
