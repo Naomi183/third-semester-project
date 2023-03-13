@@ -59,7 +59,7 @@
 }
 h1 {
     font-weight: 200;
-    color: white;
+    color: bisque;
     margin: 1rem;
     text-align: center;
 }

@@ -40,7 +40,7 @@
     .nav {
         margin-top: 0;
         border-bottom: 1px solid black;
-        color: white;
+        color: beige;
         display: flex;
         justify-content: space-between;
         align-items: center;
