@@ -2,7 +2,7 @@
     <div class="welcome" >
         <div class="hero">
             <h1>
-                    A place to get anything! :)
+                    A place to get anything! (:
                 </h1>
             <RouterLink to="/login">
                 shop now
