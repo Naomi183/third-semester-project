@@ -1,6 +1,6 @@
 <template>
     <header class="nav">
-        <h1>Zaheer stores</h1>
+        <h1>Naomi co</h1>
         <div class="links">
             <RouterLink to="/">Home</RouterLink>
             <button v-if="isAuthenticated" @click="handleLogout" >Logout</button>

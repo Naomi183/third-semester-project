@@ -1,6 +1,6 @@
 <template>
     <div class="footer">
-        <small> Proudly sponsored by <a href='https://github.com/Ahmad-Zahradeen-Tahir' target='_blank'>Zaheer Tech</a> &copy; {{ date }}</small>
+        <small> Proudly sponsored by <a href='https://github.com/Naomi183' target='_blank'>Naomi CO</a> &copy; {{ date }}</small>
         
     </div>
 </template>
